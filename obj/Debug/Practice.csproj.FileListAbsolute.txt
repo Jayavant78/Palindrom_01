@@ -1,0 +1,7 @@
+C:\Users\Jayavant Pawar\source\repos\Practice\bin\Debug\Practice.exe.config
+C:\Users\Jayavant Pawar\source\repos\Practice\bin\Debug\Practice.exe
+C:\Users\Jayavant Pawar\source\repos\Practice\bin\Debug\Practice.pdb
+C:\Users\Jayavant Pawar\source\repos\Practice\obj\Debug\Practice.csproj.AssemblyReference.cache
+C:\Users\Jayavant Pawar\source\repos\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\Users\Jayavant Pawar\source\repos\Practice\obj\Debug\Practice.exe
+C:\Users\Jayavant Pawar\source\repos\Practice\obj\Debug\Practice.pdb
